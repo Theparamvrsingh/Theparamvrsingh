@@ -2,14 +2,10 @@
 
 I enjoy tackling **DSA** challenges, honing my problem-solving skills, and creating projects that merge cutting-edge AI with user-focused design. 🌐 Always exploring new ideas and optimizing algorithms, I’m driven to learn, create, and innovate. Let’s connect and push the boundaries of what’s possible! ✨
 
-<!--
-**Theparamvrsingh/Theparamvrsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning models
 - 🌱 I’m currently learning react.js,threejavascript
 - 💬 Ask me about Frontend,DSA,Machine Learning,Hackathons
 - 😄 Pronouns: He/Him
 
--->
+
