@@ -6,7 +6,7 @@ I enjoy tackling **DSA** challenges, honing my problem-solving skills, and creat
 - 🔭 I’m currently working on Machine Learning models
 - 🌱 I’m currently learning react.js,threejavascript
 - 💬 Ask me about Frontend,DSA,Machine Learning,Hackathons
-- 😄 Pronouns: He/Him   
+- 😄 Pronouns: He/Him    
  
 
 
