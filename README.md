@@ -34,6 +34,12 @@ GFG	@yourGFGhandle	🔥 250+ Problems
 
 🤝 Collaborating in DevOps Club Bennett University
 
+### 🐍 Contribution Snake Graph
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/theparamvrsingh/theparamvrsingh/output/github-snake.svg" />
+</p>
+
 🛠️ Projects Highlights
 🚀 Carbon Tracker: A web tool to calculate carbon emissions in Indian coal mines
 
