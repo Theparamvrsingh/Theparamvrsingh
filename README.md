@@ -1,64 +1,86 @@
-🚀 Paramveer Singh — @theparamvrsingh
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Paramveer+Singh!;3rd+year+CS+student+%40+Bennett+University;Competitive+Programmer+%E2%9A%94;DSA+%E2%9D%A4%EF%B8%8F+Problem+Solving+Nerd;Full+Stack+Web+Developer+%F0%9F%92%BB+;Always+learning+something+new...+%F0%9F%A4%96" alt="Typing SVG" /> </p>
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /> </p>
-📊 GitHub Stats & Contribution Snake 🐍
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theparamvrsingh&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theparamvrsingh&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparamvrsingh&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/theparamvrsingh/theparamvrsingh/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
-🔥 Visitors Counter
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theparamvrsingh&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="Profile Views" /> </p>
-💻 Tech Stack
-<table> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /></td> </tr> </table>
-🎯 Interests & Goals
-💡 Solving DSA & CP problems daily (Codeforces, LeetCode, GFG, TUF)
-
-🧠 Machine Learning & AI exploration in 2025
-
-🌍 Building real-world full-stack apps
-
-🛠️ Working on Open Source Projects
-
-📚 Always leveling up skills and learning new tech
-
-⚡ Competitive Programming Profiles
-Platform	Handle	Stats
-LeetCode	@theparamvrsingh	🧠 300+ Problems Solved
-Codeforces	@yourCFhandle	⚔️ Rated Contestant
-CodeChef	@yourCodechefhandle	🍜 3⭐+
-GFG	@yourGFGhandle	🔥 250+ Problems
-
-🧠 Currently Working On
-👨‍💻 Building production-ready full-stack projects
-
-📊 Competitive Programming Grind (Striver’s Sheet, 170+ Leetcode)
-
-🧑‍🎓 Machine Learning Course 2025-26
-
-🤝 Collaborating in DevOps Club Bennett University
-
-### 🐍 Contribution Snake Graph
+<h1 align="center">Hi 👋, I'm Paramveer Singh</h1>
+<h3 align="center">A passionate Competitive Programmer and Full-Stack Developer from India.</h3>
 
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/theparamvrsingh/theparamvrsingh/output/github-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=theparamvrsingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-🛠️ Projects Highlights
-🚀 Carbon Tracker: A web tool to calculate carbon emissions in Indian coal mines
+---
 
-🧠 Smart Fertilizer Recommender: ML model for optimizing crop yield
+## 🚀 About Me
 
-🎯 Student Tracker System: Full-stack system to monitor academic and health performance
+- 🔭 Currently working on: **DSA & Codeforces**
+- 🌱 Learning: **Cohort 3 | Competitive Programming**
+- 💼 Portfolio: [theparamvrsingh.github.io/Portfolio](https://theparamvrsingh.github.io/Portfolio/)
+- 💬 Ask me about: **DSA, CP, Full-Stack Dev**
+- 📫 Reach me at: **paramveercse@gmail.com**
 
-💬 ChatBot for Environment Analytics: NLP-powered environmental assistant
+---
 
-📫 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=white"/></a> </p>
-🧸 Fun Facts
-🐍 I sometimes dream in Python or C++
+## 🌐 Connect with Me
 
-🍜 Code + Maggi = Best Debugging Combo
+[![Twitter](https://img.shields.io/badge/Twitter-@theparamvrsingh-blue)](https://twitter.com/theparamvrsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theparamvrsingh-blue)](https://linkedin.com/in/theparamvrsingh)
+[![Instagram](https://img.shields.io/badge/Instagram-theparamvrsingh-pink)](https://instagram.com/theparamvrsingh)
+[![Medium](https://img.shields.io/badge/Medium-theparamvrsingh-black)](https://medium.com/theparamvrsingh)
+<br/>
+[![Codeforces](https://img.shields.io/badge/Codeforces-paramveercse-orange)](https://codeforces.com/profile/paramveercse)
+[![LeetCode](https://img.shields.io/badge/LeetCode-theparamvrsingh-yellow)](https://leetcode.com/theparamvrsingh/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Kind_Dice_29-blue)](https://www.codechef.com/users/kind_dice_29)
+[![GFG](https://img.shields.io/badge/GFG-theparamvrsingh-brightgreen)](https://auth.geeksforgeeks.org/user/theparamvrsingh)
 
-🚨 You’ll find me online at 2 AM fixing bugs or grinding problems
+---
 
-🧩 Always solving something… from puzzles to systems
+## 🛠️ Languages and Tools
 
-“Don’t wish for it. Work for it.”
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theparamvrsingh&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparamvrsingh&layout=compact&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theparamvrsingh&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theparamvrsingh&theme=monokai" />
+</p>
+
+---
+
+## 🐍 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://github.com/theparamvrsingh/theparamvrsingh/blob/output/github-contribution-grid-snake.svg" />
+</p>
