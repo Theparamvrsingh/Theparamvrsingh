@@ -31,6 +31,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-theparamvrsingh-yellow)](https://leetcode.com/theparamvrsingh/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Kind_Dice_29-blue)](https://www.codechef.com/users/kind_dice_29)
 [![GFG](https://img.shields.io/badge/GFG-theparamvrsingh-brightgreen)](https://auth.geeksforgeeks.org/user/theparamvrsingh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-theparamvrsingh-yellow)](https://leetcode.com/theparamvrsingh/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-paramveercse-orange)](https://codeforces.com/profile/paramveercse)
+
 
 
 ---
