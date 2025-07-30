@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger
 
-jobs:
+jobs: 
   generate:
     runs-on: ubuntu-latest
 
