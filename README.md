@@ -22,7 +22,6 @@
 ### 👤 Personal Profiles
 [![Twitter](https://img.shields.io/badge/Twitter-@theparamvrsingh-blue)](https://twitter.com/theparamvrsingh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theparamvrsingh-blue)](https://linkedin.com/in/theparamvrsingh)
-[![Instagram](https://img.shields.io/badge/Instagram-theparamvrsingh-pink)](https://instagram.com/theparamvrsingh)
 
 ---
 
