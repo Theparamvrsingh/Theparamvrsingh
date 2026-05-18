@@ -119,7 +119,7 @@ Road crack detection & predictive maintenance using YOLOv8 & U-Net.
 
 </table>
 
---
+---
 
 ## 🏆 Achievements
 
