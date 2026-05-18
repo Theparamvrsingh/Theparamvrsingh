@@ -21,19 +21,23 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/theparamvrsingh" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="38" />
 </a>
 
 <a href="https://github.com/Theparamvrsingh" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="38" />
+</a>
+
+<a href="https://x.com/theparamvrsingh" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="38" />
 </a>
 
 <a href="https://leetcode.com/u/theparamvrsingh/" target="blank">
-<img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40" />
+<img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="38" />
 </a>
 
 <a href="https://codolio.com/profile/theparamvrsingh" target="blank">
-<img align="center" src="https://codolio.com/favicon.ico" height="40" />
+<img align="center" src="https://codolio.com/favicon.ico" height="38" />
 </a>
 </p>
 
@@ -57,8 +61,22 @@
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,scala,python,cpp,js,ts,spring,nodejs,mongodb,mysql,docker,maven,postman,git,github,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=java,scala,c,cpp,python,js,ts,sql" />
+</p>
+
+### Java Backend & Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql,maven,docker,postman,git,github" />
+</p>
+
+### AI / ML / Computer Vision
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi" />
 </p>
 
 ---
@@ -68,7 +86,7 @@
 ## 📍 Fleet Analytics & Tracking Platform
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=1200&auto=format&fit=crop" width="90%" />
+  <img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=900&auto=format&fit=crop" width="65%" />
 </p>
 
 Realtime fleet tracking and telemetry analytics platform built using Spring Boot, MongoDB, and WebSockets.
@@ -90,7 +108,7 @@ https://fleet-analytics-and-tracking-backen.vercel.app/
 ## 🌍 EcoMine Carbon Emission Analytics Platform
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?q=80&w=1200&auto=format&fit=crop" width="90%" />
+  <img src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?q=80&w=900&auto=format&fit=crop" width="65%" />
 </p>
 
 AI-powered sustainability analytics platform for monitoring industrial carbon emissions.
@@ -111,14 +129,15 @@ https://latestecomine.onrender.com
 ## 🛣️ DriveSafe AI — Road Crack Detection System
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1200&auto=format&fit=crop" width="90%" />
+  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=900&auto=format&fit=crop" width="65%" />
 </p>
 
 AI-powered road crack detection and predictive maintenance platform using YOLOv8 & U-Net.
 
 ### Highlights
 
-* Computer Vision crack detection
+* AI crack segmentation workflows
+* Computer Vision detection pipelines
 * FastAPI backend services
 * GPS-based analytics
 * Predictive maintenance workflows
@@ -132,13 +151,13 @@ https://huggingface.co/spaces/theparamvrsingh/drivesafe-ai
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theparamvrsingh&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theparamvrsingh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparamvrsingh&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theparamvrsingh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theparamvrsingh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Theparamvrsingh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -146,7 +165,7 @@ https://huggingface.co/spaces/theparamvrsingh/drivesafe-ai
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theparamvrsingh&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Theparamvrsingh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -154,7 +173,7 @@ https://huggingface.co/spaces/theparamvrsingh/drivesafe-ai
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Theparamvrsingh/Theparamvrsingh/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Theparamvrsingh/Theparamvrsingh/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
