@@ -74,9 +74,9 @@
 # 🚀 Featured Projects
 
 <table align="center" width="100%">
-<tr>
 
-<td width="33%" align="center" valign="top">
+<tr>
+<td width="100%" align="center">
 
 <img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?q=80&w=300&auto=format&fit=crop" width="120" height="120"/>
 
@@ -84,12 +84,13 @@
 
 Realtime fleet tracking platform using Spring Boot, MongoDB & WebSockets.
 
-🔗  
-https://fleet-analytics-and-tracking-backen.vercel.app/
+🔗 https://fleet-analytics-and-tracking-backen.vercel.app/
 
 </td>
+</tr>
 
-<td width="33%" align="center" valign="top">
+<tr>
+<td width="100%" align="center">
 
 <img src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?q=80&w=300&auto=format&fit=crop" width="120" height="120"/>
 
@@ -97,12 +98,13 @@ https://fleet-analytics-and-tracking-backen.vercel.app/
 
 AI-powered carbon emission analytics & sustainability monitoring platform.
 
-🔗  
-https://latestecomine.onrender.com
+🔗 https://latestecomine.onrender.com
 
 </td>
+</tr>
 
-<td width="33%" align="center" valign="top">
+<tr>
+<td width="100%" align="center">
 
 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=300&auto=format&fit=crop" width="120" height="120"/>
 
@@ -110,15 +112,14 @@ https://latestecomine.onrender.com
 
 Road crack detection & predictive maintenance using YOLOv8 & U-Net.
 
-🔗  
-https://huggingface.co/spaces/theparamvrsingh/drivesafe-ai
+🔗 https://huggingface.co/spaces/theparamvrsingh/drivesafe-ai
 
 </td>
-
 </tr>
+
 </table>
 
----
+--
 
 ## 🏆 Achievements
 
